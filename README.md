@@ -3,5 +3,5 @@
 ### Can Pham T.
 
 - date of birth: 06/10/2000
-- company name: SupremeTech
-- team name: Frontend
+
+- city: ha noi
