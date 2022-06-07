@@ -2,6 +2,6 @@
 
 ### Can Pham T.
 
-- date of birth: 06/10/2000  
-  ​
-- city: Da Nang
+- date of birth: 06/10/2000
+
+- city: ha noi
